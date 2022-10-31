@@ -2,4 +2,4 @@ hello git!
 嵌入式学习中………
 算法学习 hot-fix test
 8889999
-
+colored-story is coming!
